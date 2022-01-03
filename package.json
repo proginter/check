@@ -1,6 +1,6 @@
 {
   "name": "react-native-peerjs",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "react-native-webrtc + peerjs",
   "keywords": [
     "webrtc",
@@ -17,6 +17,6 @@
   "main": "dist/react-native-peerjs.js",
   "devDependencies": {
     "parcel": "^1.12.3",
-    "peerjs": "1.1.0"
+    "peerjs": "1.3.2"
   }
 }
